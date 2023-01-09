@@ -1,5 +1,3 @@
-# Name : Youssef Elsayed Abd-Elkader Nasr Amin
-# ID : 201900314
 n = int(input("Enter The Number of States : "))
 states = [input("Enter The States : ") for i in range (0, n)]
 num_of_input_symbols = int(input("Enter The Number of Input symbols : "))
